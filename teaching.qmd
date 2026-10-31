@@ -1,0 +1,19 @@
+# Teaching
+
+As someone believing in the open source philosophy, I keep my course contents open to public. If they turn out to help you, it would be great if you could also consider sharing what you know with people!\ 
+
+I started the project `<bereyhi-courses>` in 2025 to unify all my courses for better access and maintenance. The first item is the course Deep Generative Models which started in May 2025 for the first time at UofT. My other courses were gradually migrated to this project.
+
+
+## University of Toronto 
+
+- __ECE1553: Applied Deep Learning__ | [Course Page](<https://bereyhi-courses.github.io/dl-utoronto/>) | 2024 - Present
+- __ECE1508: Reinforcement Learning__ | [Course Page](<https://bereyhi-courses.github.io/rl-utoronto/>) | 2024 - Present
+- __ECE1513: Introduction to Machine Learning__ | [Course Page](<https://bereyhi-courses.github.io/ml-utoronto/>) | 2025 - Present
+- __ECE1508: Deep Generative Models__ | [Course Page](<https://bereyhi-courses.github.io/genai-utoronto/>) | 2025 - Present
+- __ECE496: Design Project__ | 2024 - Present
+
+## Friedrich Alexander Universität
+
+- __Compressive Sensing__ | [Course Page](<https://bereyhi-courses.github.io/cs-fau/>) | 2021 - 2023
+- __Information Theory and Coding__ | [Course Page](<https://www.fau.tv/series/information-theory-and-coding-winter-2021-2022-w21>) | [Tutorial Notes](<https://github.com/AlBerey/TutorialManuscripts>) |  2021 - 2023

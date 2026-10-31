@@ -1,0 +1,38 @@
+# People
+
+## Research Opportunities
+Prospective students interested on
+
+- Statistical Learning
+- Communication and Security in Multi-Agent AI Systems
+
+are welcome to contact me per email. UofT MEng students across FASE are more than welcome to apply for _MEng Research Module._
+
+## Current Students
+- Eason (Yicheng) Qu | PhD Student | 2024 -- Present | co-supervised by [Prof. Ben Liang](https://www.comm.utoronto.ca/~liang/)
+- Mohammadreza Tavasoli Naeini | PhD Student | 2024 | co-supervised by [Prof. Ben Liang](https://www.comm.utoronto.ca/~liang/)
+- Tyler Sun | MASc Student | 2025 - Present
+- Benjamin (Housen) Zhu | MEng Student | 2025 - Present
+- Ang Li | MEng Student | 2026 - Present
+- Mustafa Yildirim | MEng Student | 2026 - Present
+- Charles Yu | MEng Student | 2026 - Present
+- Kevin Li | MEng Student | 2026 - Present
+- Jimin Woo | Undergrad Student | 2026 - Present | co-supervised by [Prof. Steven Waslander](https://www.trailab.utias.utoronto.ca/steven-waslander)
+
+
+
+## Alumni
+- Dave Waknin | MEng Student | 2025 - 2026 | co-supervised by [Prof. Steven Waslander](https://www.trailab.utias.utoronto.ca/steven-waslander)
+- [Lingyun Gao](https://github.com/LingyunGuo) | MEng Student | 2025 - 2026 
+- Yazdan Rezayat | MEng Student | 2025 - 2026
+- Ruizhi Niu | MEng Student | 2025 - 2026
+- [Jerry (Qilong) Cheng](https://thejerrycheng.github.io/) | MEng Student | 2024 - 2026 | co-supervised by [Prof. Matthew Mackay](https://www.mie.utoronto.ca/faculty_staff/mackay/)
+    - _Check out Jerry's [IRIS Project](https://thejerrycheng.github.io/cinema_robot.html)!_
+- Yige Huang | MEng Student | 2024 - 2025
+- [Isaiah Ngou](https://isaiahngou.com/) | MEng Student | 2024 - 2025 | co-supervised by [Prof. Steven Waslander](https://www.trailab.utias.utoronto.ca/steven-waslander)
+- Eric (Jiaxuan) Zhao| MEng Student | 2024 - 2025
+- Nivi Seshadri | MEng Student | 2024 - 2025
+- [Dr. Zilu Zhao](https://scholar.google.com/citations?user=paPGN7kAAAAJ&hl=en) | MSc Student | 2021 - 2023
+- Simon Deniffel | BSc Student | 2021 - 2022
+- Akarsh Bharadwaj | MSc Student | 2020 - 2022 
+- [Dr. Bastian Eisele](https://www.empkins.de/person/bastian-eisele/) | MSc Student | 2019 - 2021 

@@ -1,0 +1,55 @@
+
+project:
+  type: website
+  resources:
+    - news.json
+    - bibtex.json
+  preview:
+    watch-inputs: true
+    navigate: true
+
+website:
+  title: "Ali Bereyhi"
+  search: false
+  
+  navbar:
+    title: false
+    background: light
+    foreground: "#333333"
+    logo: images/uoft-logo.png
+    logo-alt: "University of Toronto"
+    logo-href: https://www.ece.utoronto.ca/
+
+    right:
+      - href: index.qmd
+        text: Home
+      - href: teaching.qmd
+        text: Teaching
+      - href: research.qmd
+        text: Research
+      - href: people.qmd
+        text: People
+      - href: publications.qmd
+        text: Publications
+  
+  page-footer:
+    border: true
+    left: |
+      ![](images/uoft-logo.png){width=80px .footer-logo}
+      <span class="footer-text">University of Toronto | <em>© <span id="footer-year"></span> Ali Bereyhi</em></span>
+
+
+format:
+  html:
+    link-external-newwindow: true
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full
+    format:
+    include-in-header:
+      - text: |
+          <script src="news.js" defer></script>
+          <script src="navbar.js" defer></script>
+          <script src="bibtex.js" defer></script>
+

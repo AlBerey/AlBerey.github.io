@@ -1,0 +1,252 @@
+
+/* General typography */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  line-height: 1.6;
+  color: #333333;
+  background-color: #ffffff;
+  text-align: left;
+}
+
+/* Main content width */
+#quarto-content {
+  max-width: 1050px;
+  margin: 0 auto;
+  padding: 25px 30px;
+}
+
+/* Paragraphs */
+p {
+  text-align: left;
+  margin-bottom: 0.9rem;
+}
+
+/* Headings */
+h1, h2, h3, h4 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #222222;
+  font-weight: 600;
+  line-height: 1.35;
+}
+
+h1 {
+  font-size: 1.8rem;
+  margin-bottom: 1.2rem;
+}
+
+h2 {
+  font-size: 1.3rem;
+  margin-top: 2rem;
+  margin-bottom: 0.8rem;
+}
+
+h3 {
+  font-size: 1.1rem;
+  margin-top: 1.5rem;
+  margin-bottom: 0.6rem;
+}
+
+/* Navigation */
+.navbar {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  border-bottom: 1px solid #eeeeee;
+}
+
+.navbar-brand {
+  font-size: 17px;
+  font-weight: 600;
+}
+
+.navbar-nav .nav-link {
+  font-size: 14px;
+  font-weight: 400;
+}
+
+/* Links */
+a {
+  color: #175a9e;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #003f7d;
+  text-decoration: underline;
+}
+
+/* Lists */
+ul, ol {
+  padding-left: 1.4rem;
+}
+
+li {
+  margin-bottom: 0.3rem;
+}
+
+/* Mobile layout */
+@media (max-width: 768px) {
+  #quarto-content {
+    padding: 15px 18px;
+  }
+
+  body {
+    font-size: 15px;
+  }
+}
+
+.photo-caption {
+  font-size: 9px;
+  color: #999999;
+  line-height: 1.3;
+}
+
+#recent-news p,
+#news-archive p {
+  font-size: 14px;
+  line-height: 1.5;
+  margin-bottom: 8px;
+}
+
+#recent-news strong,
+#news-archive strong {
+  font-weight: 500;
+  color: #777777;
+}
+
+.btn-outline-primary {
+  border-radius: 8px;
+}
+
+
+/* Navbar logo */
+.navbar-logo {
+  max-height: 28px;
+  width: auto;
+}
+
+/* Footer */
+.nav-footer {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10px;
+  color: #888888;
+  border-top: 1px solid #eeeeee;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+/* Logo and text on the same line */
+.nav-footer-left p {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 0;
+}
+
+.footer-logo {
+  width: 80px !important;
+  max-width: none;
+  height: auto;
+  vertical-align: middle;
+}
+
+.footer-text {
+  font-size: 12px;
+  color: #888888;
+}
+
+.nav-footer-right {
+  grid-column: 3;
+  width: 100%;
+  justify-self: stretch;
+  font-size: 10px;
+  color: #888888;
+  text-align: right;
+  margin-left: auto;
+}
+
+.nav-footer-right p {
+  margin: 0;
+  font-size: inherit;
+}
+
+/* Consistent width and alignment */
+:root {
+  --site-width: 1050px;
+}
+
+/* Main page content */
+#quarto-content {
+  max-width: var(--site-width);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Header content */
+.navbar > .container-fluid,
+.navbar > .container {
+  max-width: var(--site-width);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Footer content */
+.nav-footer {
+  max-width: var(--site-width);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Consistent horizontal padding */
+#quarto-content,
+.navbar > .container-fluid,
+.navbar > .container,
+.nav-footer {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+/* Minimalist academic navbar */
+.navbar {
+  background-color: #ffffff !important;
+  border-bottom: 1px solid #eeeeee;
+  box-shadow: none;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+/* UofT logo */
+.navbar-logo {
+  max-height: 30px;
+  width: auto;
+}
+
+/* Name beside the logo */
+.navbar-brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  color: #333333;
+}
+
+/* Keep the logo and site title at the left edge; navigation fills the right. */
+.navbar-brand-container {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+/* Navigation links */
+.navbar-nav .nav-link {
+  font-size: 15px;
+  font-weight: 400;
+  color: #555555;
+}
+
+/* Hover and active links */
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link.active {
+  color: #175a9e;
+}
