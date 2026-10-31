@@ -1,0 +1,201 @@
+[
+    {
+    "date": "2026-10-28",
+    "text": "Results on LLM-enable optimization solvers.",
+    "links": [
+      {
+        "label": "Link to Paper",
+        "url": "https://arxiv.org/abs/2610.37932"
+      }
+    ]
+  },
+    {
+    "date": "2026-09-01",
+    "text": "LDGuid has been presented in IGARSS 2026.",
+    "links": [
+      {
+        "label": "LDGuid Paper",
+        "url": "https://arxiv.org/abs/2605.15582"
+      }
+    ]
+  },
+    {
+    "date": "2026-07-01",
+    "text": "IRIS has been presented in CRV 2026.",
+    "links": [
+      {
+        "label": "IRIS Page",
+        "url": "https://thejerrycheng.github.io/cinema_robot.html"
+      }
+    ]
+  },
+    {
+    "date": "2026-06-10",
+    "text": "Global Unknown Estimation has been presented in ICC 2026.",
+    "links": [
+      {
+        "label": "GUE Paper",
+        "url": "https://arxiv.org/abs/2606.02891"
+      }
+    ]
+  },
+    {
+    "date": "2026-01-01",
+    "text": "Introduction to Machine Learning course page is publicly available on bereyhi-courses.",
+    "links": [
+      {
+        "label": "Reinforcement Learning course",
+        "url": "https://bereyhi-courses.github.io/ml-utoronto/"
+      }
+    ]
+  },
+
+  {
+    "date": "2025-09-01",
+    "text": "Reinforcement Learning course page is publicly available on bereyhi-courses.",
+    "links": [
+      {
+        "label": "Reinforcement Learning course",
+        "url": "https://bereyhi-courses.github.io/rl-utoronto/"
+      }
+    ]
+  },
+  {
+    "date": "2025-09-01",
+    "text": "The Applied Deep Learning course page is being revised and added to bereyhi-courses.",
+    "links": [
+      {
+        "label": "Applied Deep Learning course",
+        "url": "https://bereyhi-courses.github.io/dl-utoronto/"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-01",
+    "text": "I am teaching a new graduate course on Deep Generative Models. Lecture notes, course materials, and videos are publicly available on the course website, as part of the bereyhi-courses project.",
+    "links": [
+      {
+        "label": "Deep Generative Models course",
+        "url": "https://bereyhi-courses.github.io/genai-utoronto/"
+      }
+    ]
+  },
+  {
+    "date": "2025-04-01",
+    "text": "Our paper 'Universal Training of Neural Networks to Achieve Bayes Optimal Classification Accuracy' won the Best Student Paper Award at ICASSP 2025.",
+    "links": [
+      {
+        "label": "Paper (arXiv)",
+        "url": "https://arxiv.org/abs/2501.07754"
+      }
+    ]
+  },
+  {
+    "date": "2025-01-01",
+    "text": "The lecture pages for ECE 1513 and ECE 1508 are now accessible to all University of Toronto affiliates.",
+    "links": [
+      {
+        "label": "ECE 1513 (Quercus)",
+        "url": "https://q.utoronto.ca/courses/381364"
+      },
+      {
+        "label": "ECE 1508 (Quercus)",
+        "url": "https://q.utoronto.ca/courses/381359"
+      }
+    ]
+  },
+  {
+    "date": "2025-01-01",
+    "text": "Our paper 'Universal Training of Neural Networks to Achieve Bayes Optimal Classification Accuracy' will be presented at ICASSP 2025.",
+    "links": [
+      {
+        "label": "Paper (arXiv)",
+        "url": "https://arxiv.org/abs/2501.07754"
+      }
+    ]
+  },
+  {
+    "date": "2024-10-01",
+    "text": "I will teach ECE 1508: Applied Learning and ECE 1513: Introduction to Machine Learning in Winter 2025."
+  },
+  {
+    "date": "2024-09-01",
+    "text": "I am attending MLSP 2024 at Imperial College."
+  },
+  {
+    "date": "2024-09-01",
+    "text": "I am teaching ECE 1508: Applied Learning in Fall 2024."
+  },
+  {
+    "date": "2024-05-01",
+    "text": "I am teaching ECE 1508: Special Topics in Communications — Reinforcement Learning in Summer 2024."
+  },
+  {
+    "date": "2024-04-01",
+    "text": "The Applied Deep Learning course page has moved to a new permanent location. Lecture notes are publicly available, while course videos require UTORid authentication.",
+    "links": [
+      {
+        "label": "Course page",
+        "url": "https://www.bereyhi.com/deep-learning"
+      }
+    ]
+  },
+  {
+    "date": "2024-01-01",
+    "text": "I am teaching ECE 1508: Special Topics in Communications — Applied Deep Learning in Winter 2024."
+  },
+  {
+    "date": "2024-01-01",
+    "text": "I am starting my new position as Assistant Professor (Teaching Stream) in the Department of Electrical and Computer Engineering at the University of Toronto."
+  },
+  {
+    "date": "2023-09-01",
+    "text": "My grant proposal 'Bayesian Learning and Model Fitting via Nonlinear Models' received the German Research Foundation (DFG) Walter Benjamin Postdoctoral Fellowship Award, hosted by Princeton University."
+  },
+  {
+    "date": "2023-06-01",
+    "text": "My profile is now available on the Mathematics Genealogy Project.",
+    "links": [
+      {
+        "label": "Mathematics Genealogy Project",
+        "url": "https://www.mathgenealogy.org/id.php?id=295577"
+      }
+    ]
+  },
+  {
+    "date": "2023-05-01",
+    "text": "My course Information Theory and Coding (Winter 2022–23) was selected as the Best Lecture in the Faculty of Engineering at FAU."
+  },
+  {
+    "date": "2023-02-01",
+    "text": "I am joining the Wireless Computing Lab (WCL) in the Department of Electrical and Computer Engineering at the University of Toronto."
+  },
+  {
+    "date": "2022-11-01",
+    "text": "The book 'Compressed Sensing in Information Processing' has been published. Our contribution in Chapter 5 introduces the replica method and its application to the asymptotic analysis of Bayesian-type algorithms.",
+    "links": [
+      {
+        "label": "Book",
+        "url": "https://link.springer.com/book/10.1007/978-3-031-09745-4"
+      },
+      {
+        "label": "Chapter 5",
+        "url": "https://link.springer.com/chapter/10.1007/978-3-031-09745-4_5"
+      }
+    ]
+  },
+  {
+    "date": "2022-07-01",
+    "text": "I am giving an invited talk, 'Bayesian Inference with Nonlinear Generative Models,' at the Random Matrices and Random Landscapes (RMRL 2022) conference honoring Yan Fyodorov's 60th birthday. Presentation slides are available online.",
+    "links": [
+      {
+        "label": "RMRL 2022",
+        "url": "https://www.unige.ch/math/rmrl2022/"
+      },
+      {
+        "label": "Slides (PDF)",
+        "url": "https://www.unige.ch/math/rmrl2022/slides/Bereyhi.pdf"
+      }
+    ]
+  }
+]
