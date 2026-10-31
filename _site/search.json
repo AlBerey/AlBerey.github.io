@@ -63,11 +63,53 @@
     "text": "Bayes Optimal Learning Threshold (BOLT) introduces a novel approach to design loss function: it derives a parameterized upper bound on the Bayes error rate and using its minimization to guide model training toward Bayes-optimal performance. Originally developed for classification, the BOLT framework has been extended to generative adversarial networks (BOLT-GAN). BOLT shows improved training stability and generative performance. Its underlying principle provides a general foundation for designing learning objectives across different learning problems. The original BOLT work received the Best Student Paper Award at IEEE ICASSP 2025.\n\nBOLT: Universal Classifier Training via a Bayes-Error Upper Bound, Mohammadreza Tavasoli Naeini, Ali Bereyhi, Morteza Noshad, Ben Liang, Alfred O. Hero III | 2026 | Link\nRevisiting GAN with Bayes-Optimal Discrimination, Mohammadreza Tavasoli Naeini, Ali Bereyhi, Morteza Noshad, Ben Liang, Alfred O. Hero III | 2026 | Link\n\n\n\n\nCommunication overhead is a major bottleneck in distributed learning, particularly over wireless networks. Our research addresses this challenge through the development of communication-efficient techniques, including gradient sparsification, device scheduling, and over-the-air aggregation. Beyond reducing communication costs, we investigate the fundamental role of aggregation errors in distributed learning. In particular, our Global Unknown Estimation framework interprets distributed aggregation as a statistical estimation problem, highlighting that conventional computation-error metrics do not necessarily reflect the impact of aggregation on learning performance. Instead, the bias and variance of aggregation errors provide a more meaningful characterization, motivating new approaches to the design and optimization of distributed learning systems.\n\nGlobal Unknown Estimation: A Statistical Framework for Wireless Distributed Learning, Yicheng Qu, Ali Bereyhi, Ben Liang\nIEEE International Conference on Communications (ICC) | 2026 | Link\nRegularized Top-k: A Bayesian Framework for Gradient Sparsification, Ali Bereyhi, Ben Liang, Gary Boudreau, Ali Afana\nIEEE Transactions on Signal Processing | 2025 | Link\n\n\n\n\nMany problems in signal processing share mathematical structures with those encountered in machine learning, creating opportunities to leverage learning-inspired techniques for efficient system design and optimization. Our research explores these connections to address various challenges in wireless communications and sensing, including array design, precoding, resource allocation, and object detection. UUtilizing machine learning techniques along with model-based signal processing, we develop computationally-efficient approaches to address key design problems in these domains.\n\nFast Tuning of Pinching Antenna-Assisted ISAC Systems via User Clustering, Ruizhi Niu, Ali Bereyhi\nIEEE Global Communications Conference (GLOBECOM) | 2026 | Link\nDynamic and static energy efficient design of pinching antenna systems, Saba Asaad, Chongjun Ouyang, Ali Bereyhi, Zhiguo Ding\nIEEE International Conference on Communications (ICC) | 2026 | Link\nMIMO-PASS: Uplink and Downlink Transmission via MIMO Pinching-Antenna Systems, Ali Bereyhi, Chongjun Ouyang, Saba Asaad, Zhiguo Ding, H. Vincent Poor\nIEEE Transactions on Communications | 2026 | Link\n\n\n\n\nRecent advances in machine learning have opened new opportunities for addressing complex problems in prediction, optimization, and decision-making. Our research investigates how modern learning paradigms, including foundation models, generative modeling, and reinforcement learning, can be leveraged to address such challenges. We are particularly interested in understanding the capabilities and limitations of these approaches and developing methods that improve their effectiveness, reliability, and adaptability in real-world applications, with a particular emphasis on finance and automation.\n\nUnderstanding Large Language Models as Numerical Optimizers, Lingyun Guo, Ali Bereyhi | 2026 | Link\nRegime-aware financial volatility forecasting via in-context learning, Saba Asaad, Shayan Mohajer Hamidi, Ali Bereyhi\nFinAI Workshop at International Conference on Learning Representations (ICLR) | 2026 | Link"
   },
   {
+    "objectID": "research.html#bayes-optimal-learning-and-generative-modeling",
+    "href": "research.html#bayes-optimal-learning-and-generative-modeling",
+    "title": "Current Research",
+    "section": "",
+    "text": "Bayes Optimal Learning Threshold (BOLT) introduces a novel approach to design loss function: it derives a parameterized upper bound on the Bayes error rate and using its minimization to guide model training toward Bayes-optimal performance. Originally developed for classification, the BOLT framework has been extended to generative adversarial networks (BOLT-GAN). BOLT shows improved training stability and generative performance. Its underlying principle provides a general foundation for designing learning objectives across different learning problems. The original BOLT work received the Best Student Paper Award at IEEE ICASSP 2025.\n\nBOLT: Universal Classifier Training via a Bayes-Error Upper Bound, Mohammadreza Tavasoli Naeini, Ali Bereyhi, Morteza Noshad, Ben Liang, Alfred O. Hero III | 2026 | Link\nRevisiting GAN with Bayes-Optimal Discrimination, Mohammadreza Tavasoli Naeini, Ali Bereyhi, Morteza Noshad, Ben Liang, Alfred O. Hero III | 2026 | Link"
+  },
+  {
+    "objectID": "research.html#communication-efficient-distributed-learning",
+    "href": "research.html#communication-efficient-distributed-learning",
+    "title": "Current Research",
+    "section": "",
+    "text": "Communication overhead is a major bottleneck in distributed learning, particularly over wireless networks. Our research addresses this challenge through the development of communication-efficient techniques, including gradient sparsification, device scheduling, and over-the-air aggregation. Beyond reducing communication costs, we investigate the fundamental role of aggregation errors in distributed learning. In particular, our Global Unknown Estimation framework interprets distributed aggregation as a statistical estimation problem, highlighting that conventional computation-error metrics do not necessarily reflect the impact of aggregation on learning performance. Instead, the bias and variance of aggregation errors provide a more meaningful characterization, motivating new approaches to the design and optimization of distributed learning systems.\n\nGlobal Unknown Estimation: A Statistical Framework for Wireless Distributed Learning, Yicheng Qu, Ali Bereyhi, Ben Liang\nIEEE International Conference on Communications (ICC) | 2026 | Link\nRegularized Top-k: A Bayesian Framework for Gradient Sparsification, Ali Bereyhi, Ben Liang, Gary Boudreau, Ali Afana\nIEEE Transactions on Signal Processing | 2025 | Link"
+  },
+  {
+    "objectID": "research.html#intelligent-communications-and-sensing-systems",
+    "href": "research.html#intelligent-communications-and-sensing-systems",
+    "title": "Current Research",
+    "section": "",
+    "text": "Many problems in signal processing share mathematical structures with those encountered in machine learning, creating opportunities to leverage learning-inspired techniques for efficient system design and optimization. Our research explores these connections to address various challenges in wireless communications and sensing, including array design, precoding, resource allocation, and object detection. UUtilizing machine learning techniques along with model-based signal processing, we develop computationally-efficient approaches to address key design problems in these domains.\n\nFast Tuning of Pinching Antenna-Assisted ISAC Systems via User Clustering, Ruizhi Niu, Ali Bereyhi\nIEEE Global Communications Conference (GLOBECOM) | 2026 | Link\nDynamic and static energy efficient design of pinching antenna systems, Saba Asaad, Chongjun Ouyang, Ali Bereyhi, Zhiguo Ding\nIEEE International Conference on Communications (ICC) | 2026 | Link\nMIMO-PASS: Uplink and Downlink Transmission via MIMO Pinching-Antenna Systems, Ali Bereyhi, Chongjun Ouyang, Saba Asaad, Zhiguo Ding, H. Vincent Poor\nIEEE Transactions on Communications | 2026 | Link"
+  },
+  {
+    "objectID": "research.html#learning-based-optimization-and-decision-making",
+    "href": "research.html#learning-based-optimization-and-decision-making",
+    "title": "Current Research",
+    "section": "",
+    "text": "Recent advances in machine learning have opened new opportunities for addressing complex problems in prediction, optimization, and decision-making. Our research investigates how modern learning paradigms, including foundation models, generative modeling, and reinforcement learning, can be leveraged to address such challenges. We are particularly interested in understanding the capabilities and limitations of these approaches and developing methods that improve their effectiveness, reliability, and adaptability in real-world applications, with a particular emphasis on finance and automation.\n\nUnderstanding Large Language Models as Numerical Optimizers, Lingyun Guo, Ali Bereyhi | 2026 | Link\nRegime-aware financial volatility forecasting via in-context learning, Saba Asaad, Shayan Mohajer Hamidi, Ali Bereyhi\nFinAI Workshop at International Conference on Learning Representations (ICLR) | 2026 | Link"
+  },
+  {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
     "text": "As someone believing in the open source philosophy, I keep my course contents open to public. If they turn out to help you, it would be great if you could also consider sharing what you know with people! \nI started the project &lt;bereyhi-courses&gt; in 2025 to unify all my courses for better access and maintenance. The first item is the course Deep Generative Models which started in May 2025 for the first time at UofT. My other courses were gradually migrated to this project.\n\n\n\nECE1553: Applied Deep Learning | Course Page | 2024 - Present\nECE1508: Reinforcement Learning | Course Page | 2024 - Present\nECE1513: Introduction to Machine Learning | Course Page | 2025 - Present\nECE1508: Deep Generative Models | Course Page | 2025 - Present\nECE496: Design Project | 2024 - Present\n\n\n\n\n\nCompressive Sensing | Course Page | 2021 - 2023\nInformation Theory and Coding | Course Page | Tutorial Notes | 2021 - 2023"
+  },
+  {
+    "objectID": "teaching.html#university-of-toronto",
+    "href": "teaching.html#university-of-toronto",
+    "title": "Teaching",
+    "section": "",
+    "text": "ECE1553: Applied Deep Learning | Course Page | 2024 - Present\nECE1508: Reinforcement Learning | Course Page | 2024 - Present\nECE1513: Introduction to Machine Learning | Course Page | 2025 - Present\nECE1508: Deep Generative Models | Course Page | 2025 - Present\nECE496: Design Project | 2024 - Present"
+  },
+  {
+    "objectID": "teaching.html#friedrich-alexander-universität",
+    "href": "teaching.html#friedrich-alexander-universität",
+    "title": "Teaching",
+    "section": "",
+    "text": "Compressive Sensing | Course Page | 2021 - 2023\nInformation Theory and Coding | Course Page | Tutorial Notes | 2021 - 2023"
   },
   {
     "objectID": "publications.html",
@@ -103,68 +145,5 @@
     "title": "Publications",
     "section": "Book Chapters",
     "text": "Book Chapters\nAnalysis of Sparse Recovery Algorithms via the Replica Method, Ali Bereyhi, Ralf R Müller, Hermann Schulz-Baldes\nSpringer Nature Switzerland AG | 2022 | BibTeX"
-  },
-  {
-    "objectID": "research.html#bayes-optimal-learning-and-generative-modeling",
-    "href": "research.html#bayes-optimal-learning-and-generative-modeling",
-    "title": "Current Research",
-    "section": "",
-    "text": "Bayes Optimal Learning Threshold (BOLT) introduces a novel approach to design loss function: it derives a parameterized upper bound on the Bayes error rate and using its minimization to guide model training toward Bayes-optimal performance. Originally developed for classification, the BOLT framework has been extended to generative adversarial networks (BOLT-GAN). BOLT shows improved training stability and generative performance. Its underlying principle provides a general foundation for designing learning objectives across different learning problems. The original BOLT work received the Best Student Paper Award at IEEE ICASSP 2025.\n\nBOLT: Universal Classifier Training via a Bayes-Error Upper Bound, Mohammadreza Tavasoli Naeini, Ali Bereyhi, Morteza Noshad, Ben Liang, Alfred O. Hero III | 2026 | Link\nRevisiting GAN with Bayes-Optimal Discrimination, Mohammadreza Tavasoli Naeini, Ali Bereyhi, Morteza Noshad, Ben Liang, Alfred O. Hero III | 2026 | Link"
-  },
-  {
-    "objectID": "research.html#communication-efficient-distributed-learning",
-    "href": "research.html#communication-efficient-distributed-learning",
-    "title": "Current Research",
-    "section": "",
-    "text": "Communication overhead is a major bottleneck in distributed learning, particularly over wireless networks. Our research addresses this challenge through the development of communication-efficient techniques, including gradient sparsification, device scheduling, and over-the-air aggregation. Beyond reducing communication costs, we investigate the fundamental role of aggregation errors in distributed learning. In particular, our Global Unknown Estimation framework interprets distributed aggregation as a statistical estimation problem, highlighting that conventional computation-error metrics do not necessarily reflect the impact of aggregation on learning performance. Instead, the bias and variance of aggregation errors provide a more meaningful characterization, motivating new approaches to the design and optimization of distributed learning systems.\n\nGlobal Unknown Estimation: A Statistical Framework for Wireless Distributed Learning, Yicheng Qu, Ali Bereyhi, Ben Liang\nIEEE International Conference on Communications (ICC) | 2026 | Link\nRegularized Top-k: A Bayesian Framework for Gradient Sparsification, Ali Bereyhi, Ben Liang, Gary Boudreau, Ali Afana\nIEEE Transactions on Signal Processing | 2025 | Link"
-  },
-  {
-    "objectID": "research.html#intelligent-communications-and-sensing-systems",
-    "href": "research.html#intelligent-communications-and-sensing-systems",
-    "title": "Current Research",
-    "section": "",
-    "text": "Many problems in signal processing share mathematical structures with those encountered in machine learning, creating opportunities to leverage learning-inspired techniques for efficient system design and optimization. Our research explores these connections to address various challenges in wireless communications and sensing, including array design, precoding, resource allocation, and object detection. UUtilizing machine learning techniques along with model-based signal processing, we develop computationally-efficient approaches to address key design problems in these domains.\n\nFast Tuning of Pinching Antenna-Assisted ISAC Systems via User Clustering, Ruizhi Niu, Ali Bereyhi\nIEEE Global Communications Conference (GLOBECOM) | 2026 | Link\nDynamic and static energy efficient design of pinching antenna systems, Saba Asaad, Chongjun Ouyang, Ali Bereyhi, Zhiguo Ding\nIEEE International Conference on Communications (ICC) | 2026 | Link\nMIMO-PASS: Uplink and Downlink Transmission via MIMO Pinching-Antenna Systems, Ali Bereyhi, Chongjun Ouyang, Saba Asaad, Zhiguo Ding, H. Vincent Poor\nIEEE Transactions on Communications | 2026 | Link"
-  },
-  {
-    "objectID": "research.html#learning-based-optimization-and-decision-making",
-    "href": "research.html#learning-based-optimization-and-decision-making",
-    "title": "Current Research",
-    "section": "",
-    "text": "Recent advances in machine learning have opened new opportunities for addressing complex problems in prediction, optimization, and decision-making. Our research investigates how modern learning paradigms, including foundation models, generative modeling, and reinforcement learning, can be leveraged to address such challenges. We are particularly interested in understanding the capabilities and limitations of these approaches and developing methods that improve their effectiveness, reliability, and adaptability in real-world applications, with a particular emphasis on finance and automation.\n\nUnderstanding Large Language Models as Numerical Optimizers, Lingyun Guo, Ali Bereyhi | 2026 | Link\nRegime-aware financial volatility forecasting via in-context learning, Saba Asaad, Shayan Mohajer Hamidi, Ali Bereyhi\nFinAI Workshop at International Conference on Learning Representations (ICLR) | 2026 | Link"
-  },
-  {
-    "objectID": "research.html#communication-and-security-in-multi-agent-ai-systems",
-    "href": "research.html#communication-and-security-in-multi-agent-ai-systems",
-    "title": "Current Research",
-    "section": "",
-    "text": "We investigate communication, coordination, and security challenges in multi-agent AI systems. Our research focuses on understanding emerging agent interaction protocols, identifying potential security vulnerabilities, and developing approaches for secure, reliable, and trustworthy interactions among autonomous AI agents."
-  },
-  {
-    "objectID": "teaching.html#courses",
-    "href": "teaching.html#courses",
-    "title": "Teaching",
-    "section": "",
-    "text": "ECE1553: Applied Deep Learning | Course Page | 2024 - Present\nECE1508: Reinforcement Learning | Course Page | 2024 - Present\nECE1513: Introduction to Machine Learning | Course Page | 2025 - Present\nECE1508: Deep Generative Models | Course Page | 2025 - Present"
-  },
-  {
-    "objectID": "teaching.html#mentoring",
-    "href": "teaching.html#mentoring",
-    "title": "Teaching",
-    "section": "",
-    "text": "ECE496: Design Project | 2024 - Present\nCompressive Sensing | Course Page | 2021 - 2023\nInformation Theory and Coding | Course Page | Tutorial Notes | 2021 - 2023"
-  },
-  {
-    "objectID": "teaching.html#university-of-toronto",
-    "href": "teaching.html#university-of-toronto",
-    "title": "Teaching",
-    "section": "",
-    "text": "ECE1553: Applied Deep Learning | Course Page | 2024 - Present\nECE1508: Reinforcement Learning | Course Page | 2024 - Present\nECE1513: Introduction to Machine Learning | Course Page | 2025 - Present\nECE1508: Deep Generative Models | Course Page | 2025 - Present\nECE496: Design Project | 2024 - Present"
-  },
-  {
-    "objectID": "teaching.html#friedrich-alexander-universität",
-    "href": "teaching.html#friedrich-alexander-universität",
-    "title": "Teaching",
-    "section": "",
-    "text": "Compressive Sensing | Course Page | 2021 - 2023\nInformation Theory and Coding | Course Page | Tutorial Notes | 2021 - 2023"
   }
 ]
